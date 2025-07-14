@@ -117,9 +117,9 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<!--
+
 <p align="left"> <img src="QR_2025Apr18.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
--->
+
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/14、HPの作成例!!!</marquee></span></h1>
